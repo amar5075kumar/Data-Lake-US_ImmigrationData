@@ -20,7 +20,7 @@ The whole solution is cloud based on top of **Amazon Web Services (AWS)**. First
 
 #### The Data Model
 
-![](https://github.com/saurabhsoni5893/US-Immigration-Data-Lake/blob/master/images/star-schema.PNG)
+![](https://github.com/amar5075kumar/Data-Lake-US_ImmigrationData/main/images/star-schema.PNG)
 
 ## Structure of the Project
 
@@ -31,3 +31,9 @@ Following the Udacity guide for this project, the structure is as shown below:
  - Step 3: Define the Data Model
  - Step 4: Run ETL to Model the Data
  - Step 5: Complete Project Write Up
+
+
+For the full project and code, visit the [GitHub Repository](https://github.com/amar5075kumar/Data-Lake-US_ImmigrationData/).
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
