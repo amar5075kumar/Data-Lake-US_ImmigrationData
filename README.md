@@ -20,7 +20,8 @@ The whole solution is cloud based on top of **Amazon Web Services (AWS)**. First
 
 #### The Data Model
 
-![Data Model](https://github.com/amar5075kumar/Data-Lake-US_ImmigrationData/main/images/star-schema.PNG)
+![Data Model](https://raw.githubusercontent.com/amar5075kumar/Data-Lake-US_ImmigrationData/main/images/star-schema.PNG)
+
 
 ## Structure of the Project
 
