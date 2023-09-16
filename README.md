@@ -18,9 +18,11 @@ The U.S. Customs and Border Protection needs help to see what is hidden behind t
 
 The whole solution is cloud based on top of **Amazon Web Services (AWS)**. First, all the datasets were preprocessed with **Apache Spark** and stored in a staging area in **AWS S3 bucket**. Then, it is loaded into a **Amazon Redshift** cluster using an **Apache Airflow** pipeline that transfers and checks the quality of the data to finally provide the department a Data Lake for their convenient analysis.
 
-#### The Data Model
+#### The Data Model ####
 
-![](https://github.com/amar5075kumar/Data-Lake-US_ImmigrationData/main/images/star-schema.PNG)
+![Data Model](https://raw.githubusercontent.com/amar5075kumar/Data-Lake-US_ImmigrationData/7fabde8855db65bf4b88f4e6920d98735d9fcd0d/images/star-schema.PNG)
+
+
 
 ## Structure of the Project
 
